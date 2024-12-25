@@ -7,7 +7,7 @@ import Delete from './pages/delete';
 import Update from './pages/update';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Card, Button, Container, Row, Col } from 'react-bootstrap';
-import './App.css'; // Import the custom CSS file
+import './App.css'; 
 
 function App() {
   return (
